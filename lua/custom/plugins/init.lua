@@ -15,4 +15,5 @@ return {
     lazy = false,
   },
   'rebelot/kanagawa.nvim',
+  'tpope/vim-fugitive',
 }
