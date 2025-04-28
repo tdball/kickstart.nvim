@@ -17,4 +17,9 @@ return {
   'rebelot/kanagawa.nvim',
   'tpope/vim-fugitive',
   { 'sphamba/smear-cursor.nvim', opts = {} },
+  {
+    'ibhagwan/fzf-lua',
+    depdendencies = { 'echasnovski/mini.icons' },
+    opts = {},
+  },
 }
